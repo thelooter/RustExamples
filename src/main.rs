@@ -1,6 +1,7 @@
 mod shadowing;
 mod mutability;
 mod data_types;
+mod functions;
 mod control_flow;
 mod loops;
 

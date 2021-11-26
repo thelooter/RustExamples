@@ -40,10 +40,10 @@ pub(crate) fn datatypes() {
     // A tuple is declared using the tuple syntax.
     // You need to use parenthesis to declare a tuple.
     //Once the size of the tuple is declared, you can't change it.
-    //You cann add Datatypes to the tuple usding the comma operator.
+    //You can add Datatypes to the tuple using the comma operator.
     let tup: (i32, f64, u8) = (500, 6.4, 1);
 
-    //You can deconsruct a tuple using the following syntax:
+    //You can deconstruct a tuple using the following syntax:
     let (x, y, z) = tup;
 
     //You can also access the values of the tuple using the following syntax:
