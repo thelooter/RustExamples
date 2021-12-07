@@ -4,6 +4,8 @@ mod data_types;
 mod functions;
 mod control_flow;
 mod loops;
+mod variable_scope;
+mod ownership;
 
 
 fn main() {

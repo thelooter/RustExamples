@@ -1,4 +1,4 @@
-pub(crate)fn shadowing() {
+pub(crate) fn shadowing() {
     // This is a shadowing example.
     // The variable `x` is declared and initialized in the outer scope.
     let x = 5;
